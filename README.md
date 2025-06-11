@@ -8,5 +8,6 @@ APCSA Frogger-inspired project created in 2024.
 
 ## Instructions: 
 1. Download the .zip file
-2. Import into an IDE (ex: Eclipse)
-3. Run Frame.java
+2. Extract contents of .zip
+3. Import in an IDE
+4. Run Frame.java
