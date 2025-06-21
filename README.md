@@ -7,7 +7,6 @@ APCSA Frogger-inspired project created in 2024.
 - Win/Lose Screen
 
 ## Instructions: 
-1. Download the .zip file
-2. Extract contents of .zip
-3. Import in an IDE
-4. Run Frame.java
+1. Download or clone this repository
+2. Open the project in your IDE
+3. Run the file: Frame.java (this contains the main() method)
