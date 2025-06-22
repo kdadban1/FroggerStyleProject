@@ -87,8 +87,8 @@ public class Present{
 			g2.drawImage(right, tx, null);
 			break;
 		}
-		g.setColor(Color.pink);
-		g.drawRect(x+5, y, 50, 55);
+		// g.setColor(Color.pink);
+		// g.drawRect(x+5, y, 50, 55);
 	}
 	
 	

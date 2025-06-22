@@ -89,8 +89,8 @@ public class River{
 			break;
 		}
 
-		g.setColor(Color.pink);
-		g.drawRect(x+5, y+25, 105, 65);
+		// g.setColor(Color.pink);
+		// g.drawRect(x+5, y+25, 105, 65);
 
 		
 	}

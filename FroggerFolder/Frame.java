@@ -32,20 +32,13 @@ public class Frame extends JPanel implements ActionListener, MouseListener, KeyL
 	Present present = new Present();
 	Log log = new Log();
 	River river = new River();
-	//Timer related variables
-	int waveTimer = 5; //each wave of enemies is 20s
-	long ellapseTime = 0;
-	Font timeFont = new Font("Courier", Font.BOLD, 70);
+
 	int score = 0;
 	boolean win = false;
 	boolean lose = false;
 	
-
-	
 	Font myFont = new Font("Courier", Font.BOLD, 40);
-	SimpleAudioPlayer backgroundMusic = new SimpleAudioPlayer("scifi.wav", false);
-//	Music soundBang = new Music("bang.wav", false);
-//	Music soundHaha = new Music("haha.wav", false);
+	
 	
 	//frame width/height
 	int width = 600;

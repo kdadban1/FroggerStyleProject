@@ -90,8 +90,8 @@ public class Log{
 			break;
 		}
 
-		g.setColor(Color.pink);
-		g.drawRect(x-10, y+48, 165, 70);
+		// g.setColor(Color.pink);
+		// g.drawRect(x-10, y+48, 165, 70);
 
 		
 	}

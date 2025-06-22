@@ -124,8 +124,8 @@ public class Grinch{
 		
 		/*inside paint draw the hitbox until you have debugged all collisions
 		 */
-		g.setColor(Color.pink);
-		g.drawRect(x+35, y+90, 33, 15);
+		// g.setColor(Color.pink);
+		// g.drawRect(x+35, y+90, 33, 15);
 
 	}
 	

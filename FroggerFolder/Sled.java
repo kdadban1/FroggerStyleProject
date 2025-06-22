@@ -89,8 +89,8 @@ public class Sled{
 			break;
 		}
 
-		g.setColor(Color.pink);
-		g.drawRect(x+5, y+25, 115, 85);
+		// g.setColor(Color.pink);
+		// g.drawRect(x+5, y+25, 115, 85);
 
 		
 	}

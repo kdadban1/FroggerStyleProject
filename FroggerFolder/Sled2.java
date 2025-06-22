@@ -90,8 +90,8 @@ public class Sled2{
 			break;
 		}
 
-		g.setColor(Color.pink);
-		g.drawRect(x, y+18, 100, 65);
+		// g.setColor(Color.pink);
+		// g.drawRect(x, y+18, 100, 65);
 
 		
 	}
