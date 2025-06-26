@@ -31,7 +31,7 @@ public class Sled2{
 		y = 130;
 		vx = -6.0;
 		vy = -3.0;
-		
+
 		tx = AffineTransform.getTranslateInstance(0, 0);
 		
 		init(x, y); 				//initialize the location of the image
