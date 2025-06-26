@@ -7,6 +7,9 @@ APCSA Frogger-inspired project created in 2024.
 - Win/Lose Screen
 
 ## Instructions: 
-1. Download or clone this repository
-2. Open the project in your IDE
-3. Run the file: Frame.java (this contains the main() method)
+1. Download the [FroggerGame.jar](https://github.com/kdadban1/FroggerStyleProject/raw/main/FroggerGame.jar)
+2. Make sure you have [Java installed](https://www.java.com/en/download/)
+3. Open a terminal or command prompt, navigate to the download location, and run:
+
+```bash
+java -jar FroggerGame.jar
